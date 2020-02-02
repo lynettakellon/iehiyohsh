@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oipheeduab.wanyichow.com/sitemap.xml
